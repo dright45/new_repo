@@ -1,2 +1,2 @@
 "# new_repo" 
-## IAN IS A CUCK
+"Jose Repo"
